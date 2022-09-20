@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SmokeCilinder_01
-  m_Shader: {fileID: -6465566751694194690, guid: 5a4c5b7d75333ec4d9d2629618852648, type: 3}
+  m_Name: SmokeParticles_Procedural
+  m_Shader: {fileID: -6465566751694194690, guid: a3aba2fe7c5a31844b6e8240cdfaf612, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords:
   - _FLIPBOOKBLENDING_OFF
@@ -23,7 +23,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -94,7 +94,7 @@ Material:
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _Disolve: 1
+    - _Disolve: 0.772
     - _DistortionBlend: 0.5
     - _DistortionEnabled: 0
     - _DistortionStrength: 1
@@ -108,8 +108,8 @@ Material:
     - _GlossyReflections: 0
     - _Metallic: 0
     - _Mode: 0
-    - _NoisePower: 0.5
-    - _NoiseScale: 20
+    - _NoisePower: 0.75
+    - _NoiseScale: 25
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
@@ -124,6 +124,7 @@ Material:
     - _SrcBlend: 5
     - _Surface: 1
     - _TwirlAmaunt: 5
+    - _TwirlAmoumt: 4
     - _WobbyAmount: 1
     - _WobbyFrequency: 0.35
     - _WobbyRangeIntensitive: 10
@@ -135,13 +136,13 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
-    - _Color: {r: 4.981298, g: 2.3089626, b: 7.53077, a: 1}
+    - _Color: {r: 3.827451, g: 0, b: 11.984314, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _NoiseSpeed: {r: -0.75, g: 0.75, b: 0, a: 0}
+    - _NoiseSpeed: {r: 0, g: -0.25, b: 0, a: 0}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
-    - _TwirlCenter: {r: 0.5, g: 0.5, b: 0, a: 0}
-    - _TwirlSpeed: {r: 0.5, g: 0.25, b: 0, a: 0}
+    - _TwirlCenter: {r: -0.5, g: -0.5, b: 0, a: 0}
+    - _TwirlSpeed: {r: 0, g: 0.5, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &5167348365046033145
 MonoBehaviour:
