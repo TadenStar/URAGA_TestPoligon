@@ -4438,7 +4438,7 @@ ParticleSystem:
     vector0_2:
       serializedVersion: 2
       minMaxState: 2
-      scalar: 0.4
+      scalar: 0.2
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -4453,7 +4453,7 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.027833058
+          time: 0.013715244
           value: 1
           inSlope: 0
           outSlope: 0
@@ -4462,7 +4462,7 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.07577511
+          time: 0.03733956
           value: 0.113144584
           inSlope: 0
           outSlope: 0
@@ -4471,7 +4471,7 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.10399585
+          time: 0.051245842
           value: 0.25873753
           inSlope: 0
           outSlope: 0
@@ -4480,7 +4480,7 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.14039592
+          time: 0.06918264
           value: 0.04077692
           inSlope: 0
           outSlope: 0
@@ -4489,7 +4489,7 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.17584898
+          time: 0.08665277
           value: 0.11198872
           inSlope: 0
           outSlope: 0
@@ -4498,7 +4498,7 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.23318638
+          time: 0.11490682
           value: 0.023511583
           inSlope: 0
           outSlope: 0
@@ -4531,7 +4531,7 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.031725466
+          time: 0.015633298
           value: 0.33040306
           inSlope: 0
           outSlope: 0
@@ -4540,7 +4540,7 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.07349678
+          time: 0.036216874
           value: 0.05334699
           inSlope: -0.05798103
           outSlope: -0.05798103
@@ -4549,7 +4549,7 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.10797471
+          time: 0.053206496
           value: 0.12119236
           inSlope: -2.0417473
           outSlope: -2.0417473
@@ -4558,7 +4558,7 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.14065965
+          time: 0.069312595
           value: 0.02250131
           inSlope: 0
           outSlope: 0
@@ -4567,7 +4567,7 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.1783444
+          time: 0.08788244
           value: 0.08708583
           inSlope: 0.00089670514
           outSlope: 0.00089670514
@@ -4576,7 +4576,7 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
-          time: 0.22903141
+          time: 0.11285938
           value: 0.02074913
           inSlope: 0.0016003583
           outSlope: 0.0016003583
