@@ -123,6 +123,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &51631883 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3868180969219501450, guid: 82e7da5d41814d84e87249332542eb00, type: 3}
+  m_PrefabInstance: {fileID: 985665304}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &407983028
 GameObject:
   m_ObjectHideFlags: 0
@@ -461,9 +466,41 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 265276353220585608, guid: 82e7da5d41814d84e87249332542eb00, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 265276353234591300, guid: 82e7da5d41814d84e87249332542eb00, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 265276353234591307, guid: 82e7da5d41814d84e87249332542eb00, type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].countCurve.scalar
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 265276353504864345, guid: 82e7da5d41814d84e87249332542eb00, type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].countCurve.scalar
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 265276353504864346, guid: 82e7da5d41814d84e87249332542eb00, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4577643783450265241, guid: 82e7da5d41814d84e87249332542eb00, type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].countCurve.scalar
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4577643784194528931, guid: 82e7da5d41814d84e87249332542eb00, type: 3}
       propertyPath: m_Name
       value: RocketBoots_Ability_VFX
+      objectReference: {fileID: 0}
+    - target: {fileID: 4577643784194528932, guid: 82e7da5d41814d84e87249332542eb00, type: 3}
+      propertyPath: m_SceneBindings.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4577643784194528932, guid: 82e7da5d41814d84e87249332542eb00, type: 3}
+      propertyPath: m_SceneBindings.Array.data[5].key
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 4577643784194528933, guid: 82e7da5d41814d84e87249332542eb00, type: 3}
       propertyPath: m_RootOrder
@@ -509,6 +546,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4577643784257941643, guid: 82e7da5d41814d84e87249332542eb00, type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].countCurve.scalar
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 4577643785405060256, guid: 82e7da5d41814d84e87249332542eb00, type: 3}
+      propertyPath: particles_02
+      value: 
+      objectReference: {fileID: 51631883}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 82e7da5d41814d84e87249332542eb00, type: 3}
 --- !u!1 &1130274669
