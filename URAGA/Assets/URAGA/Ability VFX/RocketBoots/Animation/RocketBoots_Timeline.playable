@@ -1237,13 +1237,6 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
-  - time: 3.6166666
-    functionName: EndFlame
-    data: 
-    objectReferenceParameter: {fileID: 0}
-    floatParameter: 0
-    intParameter: 0
-    messageOptions: 0
 --- !u!114 &9051848149238833388
 MonoBehaviour:
   m_ObjectHideFlags: 1
