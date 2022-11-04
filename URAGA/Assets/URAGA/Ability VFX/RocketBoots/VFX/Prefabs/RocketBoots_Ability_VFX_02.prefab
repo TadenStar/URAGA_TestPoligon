@@ -27254,8 +27254,6 @@ PlayableDirector:
     value: {fileID: 6078176313746110625}
   - key: {fileID: -2461398253554694458, guid: 0215f72a4db75dc49a18f8c449beead1, type: 2}
     value: {fileID: 6850472350061234917}
-  - key: {fileID: 9168306067861581752, guid: 0215f72a4db75dc49a18f8c449beead1, type: 2}
-    value: {fileID: 353638805}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &7367810943702427135
@@ -32999,6 +32997,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2050866366389554639, guid: b567cb1b4e2336849bf2859deb4b7471, type: 3}
+      propertyPath: m_FadeFactor
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2050866366389554639, guid: b567cb1b4e2336849bf2859deb4b7471, type: 3}
       propertyPath: m_StartAngleFade
       value: 177.7709
       objectReference: {fileID: 0}
@@ -33181,6 +33183,10 @@ PrefabInstance:
     - target: {fileID: 7417706666563404731, guid: 02ce3957443f8a34aad28f0e20e509b3, type: 3}
       propertyPath: m_Offset.z
       value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7417706666563404731, guid: 02ce3957443f8a34aad28f0e20e509b3, type: 3}
+      propertyPath: m_FadeFactor
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 02ce3957443f8a34aad28f0e20e509b3, type: 3}
