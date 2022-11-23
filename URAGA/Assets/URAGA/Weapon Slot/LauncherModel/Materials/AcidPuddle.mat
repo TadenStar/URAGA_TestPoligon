@@ -20,14 +20,14 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: FlameDecals_01
-  m_Shader: {fileID: -6465566751694194690, guid: e07f38edeeb02294da0f72a6c6a916a0, type: 3}
+  m_Name: AcidPuddle
+  m_Shader: {fileID: -6465566751694194690, guid: f7c2ce420a9235144ac853d6ecc1e394, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 1995
+  m_CustomRenderQueue: 1998
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
@@ -139,7 +139,7 @@ Material:
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 1
+    - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _Smoothstep_Max: 2
     - _Smoothstep_Min: 1
@@ -150,10 +150,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _BorderColor: {r: 0.116162844, g: 0.5188679, b: 0.0465023, a: 0}
     - _Color: {r: 0.028301895, g: 0.028301895, b: 0.028301895, a: 1}
-    - _Color_01: {r: 0.6029793, g: 1, b: 0.08962262, a: 0}
-    - _Color_02: {r: 0.12012481, g: 0.24528301, b: 0.019668924, a: 0}
     - _Emission: {r: 21.361254, g: 3.0196536, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Emission_01: {r: 0.8396226, g: 0.27888453, b: 0, a: 0}

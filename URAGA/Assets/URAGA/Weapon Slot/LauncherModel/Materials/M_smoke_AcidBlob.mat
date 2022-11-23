@@ -146,13 +146,13 @@ Material:
     - _noisePanU: 0.1
     - _noisePanV: 0.1
     - _noise_power: 0.01
-    - _opacity: 1
+    - _opacity: 0.1
     - _trail_move: 2
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Color0: {r: 0.65085006, g: 3.3597941, b: 1.2409211, a: 0}
-    - _Color1: {r: 1.5695449, g: 6.5243835, b: 2.8591294, a: 0}
+    - _Color0: {r: 10.680627, g: 1.3979877, b: 0, a: 0}
+    - _Color1: {r: 6.3541455, g: 6.3541455, b: 6.3541455, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _glow: {r: 0.01886791, g: 0.01886791, b: 0.01886791, a: 0}
