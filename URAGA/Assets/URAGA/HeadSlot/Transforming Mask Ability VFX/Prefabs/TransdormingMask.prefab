@@ -461,7 +461,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7120047166550315473}
   m_Layer: 5
-  m_Name: Scope_v1
+  m_Name: TransdormingMask
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
