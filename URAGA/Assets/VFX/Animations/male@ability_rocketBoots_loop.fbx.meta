@@ -1,24 +1,12 @@
 fileFormatVersion: 2
-guid: 395f66f2094f0c54a95b5c32b0352c78
+guid: 9f1ba6db244fe2d41b958b82dd0f5a23
 ModelImporter:
   serializedVersion: 21202
-  internalIDToNameTable: []
-  externalObjects:
+  internalIDToNameTable:
   - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Character
-    second: {fileID: 2100000, guid: 343805e2ef5254040ba91f4c9c058ff9, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Environment
-    second: {fileID: 2100000, guid: 82f75cf5d593ac146983b7871a9685f3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Floor
-    second: {fileID: 2100000, guid: 975a35511cd6f4e4393114fc3a045c8c, type: 2}
+      74: -3459744105243900856
+    second: '@ability_rocketBoots_loop'
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

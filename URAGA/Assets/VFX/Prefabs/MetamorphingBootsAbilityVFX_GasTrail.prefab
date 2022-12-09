@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5930372476606348814}
   m_Layer: 0
-  m_Name: MetamorphingBoots_GasTrail
+  m_Name: MetamorphingBootsAbilityVFX_GasTrail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

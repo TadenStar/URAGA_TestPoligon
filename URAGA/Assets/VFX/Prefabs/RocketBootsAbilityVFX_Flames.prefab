@@ -1573,7 +1573,7 @@ ParticleSystem:
     tilesY: 2
     animationType: 0
     rowIndex: 0
-    cycles: 4
+    cycles: 1
     uvChannelMask: -1
     rowMode: 1
     sprites:
@@ -4892,7 +4892,7 @@ ParticleSystemRenderer:
   m_MinParticleSize: 0
   m_MaxParticleSize: 1
   m_CameraVelocityScale: 0
-  m_VelocityScale: 2
+  m_VelocityScale: 0.14
   m_LengthScale: 0
   m_SortingFudge: 0
   m_NormalDirection: 1
@@ -4926,7 +4926,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2269246844576700248}
   m_Layer: 0
-  m_Name: RocketBoots_Flames
+  m_Name: RocketBootsAbilityVFX_Flames
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
